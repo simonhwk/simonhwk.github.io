@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /assets/pdf/SimonKang_CV.pdf
+layout: resume
+permalink: /assets/pdf/SimonKang_Resume_September2025.pdf
 title: cv
 nav: true
 nav_order: 4
