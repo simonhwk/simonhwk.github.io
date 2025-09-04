@@ -35,7 +35,7 @@ Earlier, I gained systems experience at [Hyundai Motor Group](https://www.hyunda
 
 **My work is dedicated to developing robotic algorithms and systems.**
 
-**Research Areas: Robotics Algorithms and Systems · Real-time Control and Planning · Machine Learning**
+**Focus Areas: Robotics Algorithms and Systems · Real-time Control and Planning · Machine Learning**
 
 <!-- received a Bachelor's degree from [Chung-Ang University](https://www.cau.ac.kr/) and -->
 
