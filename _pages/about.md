@@ -9,7 +9,7 @@ permalink: /
 subtitle: |
   <div style="text-align:center;">
     <br>
-    <strong>Embedded Systems Development Engineer</strong>, <a href='https://www.roverdx.com/'>RoverDx</a><br>
+    <strong>Embedded Systems Dev Engineer</strong>, <a href='https://www.roverdx.com/'>RoverDx</a><br>
     <strong>M.S. in Mechanical Engineering (Robotics & Controls)</strong>, <a href='https://www.columbia.edu/'>Columbia University</a><br>
     <strong>Alumni Researcher</strong>, <a href='https://www.creativemachineslab.com/'>Creative Machines Lab</a><br><br>
     <a href='https://github.com/simonhwk'>GitHub</a> / <a href='https://www.linkedin.com/in/simonhwk/'>Linkedin</a> / <a href = 'https://simonhwk.github.io/assets/pdf/SimonKang_CV.pdf'>CV</a><br><br><br>
@@ -27,7 +27,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I work as an embedded systems dev engineer at [RoverDx](https://www.roverdx.com/), which is a Columbia University advancing next-generation point-of-care PCR diagnostics. At RoverDx, I design and implement embedded firmware and real-time control systems for sample preparation.
+I work as an embedded systems dev engineer at [RoverDx](https://www.roverdx.com/), a Columbia University advancing next-generation point-of-care PCR diagnostics. At RoverDx, I design and implement embedded firmware and real-time control systems for sample preparation.
 
 I hold an MS in Mechanical Engineering with a concentration in Robotics and Controls at [Columbia University](https://www.columbia.edu/), where I conducted research in modular robotics and robotic metabolism at the [Creative Machines Lab](https://www.creativemachineslab.com/).  
 
