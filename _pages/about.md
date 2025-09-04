@@ -9,9 +9,9 @@ permalink: /
 subtitle: |
   <div style="text-align:center;">
     <br>
-    <strong>MS Student</strong>, <a href='https://www.me.columbia.edu/'>Department of Mechanical Engineering</a><br>
-    <strong>Member</strong>, <a href='https://www.creativemachineslab.com/'>Creative Machines Lab</a><br>
-    Columbia University<br><br>
+    <strong>Embedded Systems Development Engineer</strong>, <a href='https://www.roverdx.com/'>RoverDx</a><br>
+    <strong>M.S. in Mechanical Engineering (Robotics & Controls)</strong>, <a href='https://www.columbia.edu/'>Columbia University</a><br>
+    <strong>Alumni Researcher</strong>, <a href='https://www.creativemachineslab.com/'>Creative Machines Lab</a><br><br>
     <a href='https://github.com/simonhwk'>GitHub</a> / <a href='https://www.linkedin.com/in/simonhwk/'>Linkedin</a> / <a href = 'https://simonhwk.github.io/assets/pdf/SimonKang_CV.pdf'>CV</a><br><br><br>
   </div>
 
@@ -27,11 +27,15 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a second-year MS student in Mechanical Engineering with a concentration in Robotics at [Columbia University](https://www.columbia.edu/). As a member of the [Creative Machines Lab](https://www.creativemachineslab.com/), I work under the guidance of [Professor Hod Lipson](https://www.hodlipson.com/) and [Philippe Wyder](https://www.philippewyder.com/) in the Robot Metabolism Group. Before joining Columbia, I gained valuable industry experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I was a safety analysis engineer and collaboration lead for ML based data analytics project for the brands Hyundai, Kia, and Genesis. 
+I work as an embedded systems dev engineer at [RoverDx](https://www.roverdx.com/), which is a Columbia University advancing next-generation point-of-care PCR diagnostics. At RoverDx, I design and implement embedded firmware and real-time control systems for sample preparation.
 
-**My work is dedicated to understanding the control, planning, and learning mechanisms of multi-agent systems, with the aim of developing robotic algorithms and mechatronics solutions that serve society and assist individuals.**
+I hold an MS in Mechanical Engineering with a concentration in Robotics and Controls at [Columbia University](https://www.columbia.edu/), where I conducted research in modular robotics and robotic metabolism at the [Creative Machines Lab](https://www.creativemachineslab.com/).  
 
-**Research Areas: Modular & Bio-inspired Robotics · Multi-Agent Control and Planning · SLAM · Robot Learning**
+Earlier, I gained systems experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I led the co-design of a cross-brand ML safety data analytics system architecture—partnering with Hyundai, Kia, and Deloitte.
+
+**My work is dedicated to developing robotic algorithms and systems.**
+
+**Research Areas: Robotics Algorithms and Systems · Real-time Control and Planning · Machine Learning**
 
 <!-- received a Bachelor's degree from [Chung-Ang University](https://www.cau.ac.kr/) and -->
 
