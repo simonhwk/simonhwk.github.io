@@ -12,7 +12,7 @@ subtitle: |
     <strong>Embedded Systems Dev Engineer</strong>, <a href='https://www.roverdx.com/'>RoverDx</a><br>
     <strong>M.S. in Mechanical Engineering (Robotics & Controls)</strong>, <a href='https://www.columbia.edu/'>Columbia University</a><br>
     <strong>Alumni Researcher</strong>, <a href='https://www.creativemachineslab.com/'>Creative Machines Lab</a><br><br>
-    <a href='https://github.com/simonhwk'>GitHub</a> / <a href='https://www.linkedin.com/in/simonhwk/'>Linkedin</a> / <a href = 'https://simonhwk.github.io/assets/pdf/SimonKang_CV.pdf'>CV</a><br><br><br>
+    <a href='https://github.com/simonhwk'>GitHub</a> / <a href='https://www.linkedin.com/in/simonhwk/'>Linkedin</a> / <a href = 'https://simonhwk.github.io/assets/pdf/SimonKang_Resume_September2025.pdf'>CV</a><br><br><br>
   </div>
 
 profile:
