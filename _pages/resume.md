@@ -1,7 +1,7 @@
 ---
 layout: resume
 permalink: /assets/pdf/SimonKang_Resume_September2025.pdf
-title: cv
+title: resume
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
