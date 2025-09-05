@@ -27,7 +27,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I work as an embedded systems dev engineer at [RoverDx](https://www.roverdx.com/), a Columbia University advancing next-generation point-of-care PCR diagnostics. At RoverDx, I design and implement embedded firmware and real-time control systems for sample preparation.
+I work as an embedded systems dev engineer at [RoverDx](https://www.roverdx.com/), a Columbia University startup advancing next-generation point-of-care PCR diagnostics. At RoverDx, I design and implement embedded firmware and real-time control systems for sample preparation.
 
 I hold an MS in Mechanical Engineering with a concentration in Robotics and Controls at [Columbia University](https://www.columbia.edu/), where I conducted research in modular robotics and robotic metabolism at the [Creative Machines Lab](https://www.creativemachineslab.com/).  
 
