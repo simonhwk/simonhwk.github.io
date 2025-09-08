@@ -33,7 +33,7 @@ I hold an MS in Mechanical Engineering with a concentration in Robotics and Cont
 
 Earlier, I gained systems experience at [Hyundai Motor Group](https://www.hyundaimotorgroup.com/main/mainRecommend), where I led the co-design of a cross-brand ML safety data analytics system architecture—partnering with Hyundai, Kia, and Deloitte.
 
-**My work is dedicated to developing robotic algorithms and systems.**
+**My work is dedicated to developing robotic algorithms and systems for medical devices.**
 
 **Focus Areas: Robotics Algorithms and Systems · Real-time Control and Planning · Machine Learning**
 
